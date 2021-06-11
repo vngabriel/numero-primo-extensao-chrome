@@ -8,7 +8,7 @@
 4. Clique em "Carregar sem compactação", no menu superior;
 5. Selecione a pasta do projeto que você baixou/clonou.
 
-Seguindo esses passos a extensão irá aparecer na sua lista de extensões do navegador
+Seguindo esses passos a extensão irá aparecer na sua lista de extensões do navegador.
 
 ---------------------------------
 
