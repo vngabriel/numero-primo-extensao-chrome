@@ -1,0 +1,13 @@
+{
+	"manifest_version":2,
+
+	"name":"Números primos",
+	"version":"1.0",
+	"description":"Verifica se um número é primo",
+	"icons":{
+		"128": "icon/128.png"
+	},
+	"browser_action":{
+		"default_popup":"src/index.html"
+	}
+}

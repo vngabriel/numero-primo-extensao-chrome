@@ -1,0 +1,17 @@
+body {
+    height: 90px;
+    width: max-content;
+}
+
+p {
+    text-align: center;
+}
+
+#num {
+    width: 100px;
+}
+
+#btn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
